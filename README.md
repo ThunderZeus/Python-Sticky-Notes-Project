@@ -9,3 +9,14 @@ This is an intermediate level project. We will install the Tkinter Module to cre
 
 Pip install tk
 You do not need to install Sqlite3 as it is already a part of the python packages.
+
+Steps to Proceed with Sticky Notes Project using Python
+Following are the steps to proceed with the Sticky Notes project.
+
+1. Import the required libraries
+2. Creating the GUI Window
+3. Connection with the Database
+4. Create Notes Functionality
+5. Edit Notes Functionality
+6. View Notes Functionality
+7. Delete Notes Functionality
